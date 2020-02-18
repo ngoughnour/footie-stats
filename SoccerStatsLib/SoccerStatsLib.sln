@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerStatsLib", "SoccerStatsLib.csproj", "{17CCA933-470F-4EF1-A7B4-0F22B71384CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerStatsLib.Tests", "..\SoccerStatsLib.Tests\SoccerStatsLib.Tests.csproj", "{EE476E57-6295-4886-8A3C-36ABDC2A03DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17CCA933-470F-4EF1-A7B4-0F22B71384CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CCA933-470F-4EF1-A7B4-0F22B71384CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CCA933-470F-4EF1-A7B4-0F22B71384CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CCA933-470F-4EF1-A7B4-0F22B71384CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE476E57-6295-4886-8A3C-36ABDC2A03DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE476E57-6295-4886-8A3C-36ABDC2A03DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE476E57-6295-4886-8A3C-36ABDC2A03DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE476E57-6295-4886-8A3C-36ABDC2A03DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
